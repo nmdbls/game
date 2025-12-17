@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.8" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="50" height="10" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="57">
  <tileset firstgid="1" name="tail1" tilewidth="16" tileheight="16" tilecount="702" columns="39">
-  <image source="../../../../Downloads/Данный для создания уровня/res/tileset.png" trans="6d9fb9" width="630" height="302"/>
+  <image source="tileset.png" trans="6d9fb9" width="630" height="302"/>
  </tileset>
  <layer id="1" name="Тайлы" width="50" height="10">
   <data>
